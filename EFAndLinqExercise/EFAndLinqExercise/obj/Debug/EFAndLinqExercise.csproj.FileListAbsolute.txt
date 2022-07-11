@@ -1,0 +1,12 @@
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\bin\Debug\EFAndLinqExercise.exe.config
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\bin\Debug\EFAndLinqExercise.exe
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\bin\Debug\EFAndLinqExercise.pdb
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\bin\Debug\EntityFramework.dll
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\bin\Debug\EntityFramework.SqlServer.dll
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\bin\Debug\EntityFramework.xml
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\bin\Debug\EntityFramework.SqlServer.xml
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\obj\Debug\EFAndLinqExercise.csproj.AssemblyReference.cache
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\obj\Debug\EFAndLinqExercise.csproj.CoreCompileInputs.cache
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\obj\Debug\EFAndLinqExercise.csproj.CopyComplete
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\obj\Debug\EFAndLinqExercise.exe
+E:\Excersize C#\EFAndLinqExercise\EFAndLinqExercise\obj\Debug\EFAndLinqExercise.pdb
